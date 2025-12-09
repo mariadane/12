@@ -4,7 +4,6 @@
   function App() {
     const [selectedItem, setSelectedItem] = useState(null);
   const items = [
-    'Соколова Валерия',
     'Фатеева Александра',
     'Павлова Ольга',
     'Стародумова Екатерина',
